@@ -1,0 +1,28 @@
+{
+    "files": {
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "README.md": "25ca65fd95f7a2b431ab0422d8bc9480180c4996c4a8c17ffa8d155438d49d8d",
+        "config.json": {
+            "overwrite": false,
+            "hash": "e6425428c4779e7ee0ff8808d932b6459b8c058a52872f9513ea3b48699f425e"
+        },
+        "index.js": "288ff92b3282d1ee8e403aff2ba7f3159ff13191187f490789b68dd366cb2b9c",
+        "module.json": "8400d1fa0495355f1be65bc2d645efd4823b33a2ca00997514797474bb22ecdd",
+        "settings_migrator.js": "4c0afece4393ad768ce97f590c97d8c1ca250134aa82865d0e94e0a6454bb1d4"
+    },
+    "defs": {
+        "C_CANCEL_CONTRACT": 1,
+        "C_REQUEST_CONTRACT": 1,
+        "C_TRADE_BROKER_DEAL_CONFIRM": 1,
+        "C_TRADE_BROKER_REJECT_SUGGEST": 1,
+        "S_ACCEPT_CONTRACT": 1,
+        "S_CANCEL_CONTRACT": 1,
+        "S_REJECT_CONTRACT": 1,
+        "S_REPLY_REQUEST_CONTRACT": 1,
+        "S_REQUEST_CONTRACT": 1,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_TRADE_BROKER_DEAL_INFO_UPDATE": 1,
+        "S_TRADE_BROKER_DEAL_SUGGESTED": 1,
+        "S_TRADE_BROKER_REQUEST_DEAL_RESULT": 1
+    }
+}
